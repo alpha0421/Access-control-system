@@ -15,3 +15,7 @@
     程式：RFID_Client
 
     使用GPIO接腳7，依照Projects-Door Value亮暗燈
+
+簡報(AIoT_門禁森嚴(比對+硬體).pptx)：
+
+    依據ultrahsin的精美簡報，添加我的部分。
